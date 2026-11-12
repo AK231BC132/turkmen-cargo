@@ -8,10 +8,10 @@
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
 
     <application
-        android:theme="@android:style/Theme.Material.Light.NoActionBar"
-        android:label="TURKMEN CARGO"
         android:allowBackup="true"
-        android:supportsRtl="true">
+        android:label="TURKMEN CARGO"
+        android:supportsRtl="true"
+        android:theme="@android:style/Theme.Material.Light.NoActionBar">
 
         <activity
             android:name=".MainActivity"
