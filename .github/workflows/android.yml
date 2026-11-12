@@ -1,4 +1,4 @@
-Android Apk workflow
+Fix Android workflow
 name: Build TURKMEN CARGO APK
 on:
   push:
